@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Image Links</title>
+</head>
+<body>
+	<a href="#"><img src="https://github.com/solidusbm/bricks/blob/main/NEW%20Menu%20front-%20FINAL.jpg" alt="Image 1"></a>
+	<a href="#"><img src="image2.jpg" alt="Image 2"></a>
+	<a href="#"><img src="image3.jpg" alt="Image 3"></a>
+</body>
+</html>
